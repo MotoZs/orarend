@@ -1,0 +1,64 @@
+{
+  "orarend": [
+    {
+      "id": 1,
+      "nap": "Hétfő",
+      "ora": 1,
+      "tantargy": "Matematika"
+    },
+    {
+      "id": 3,
+      "nap": "Hétfő",
+      "ora": 3,
+      "tantargy": "Történelem"
+    },
+    {
+      "id": 4,
+      "nap": "Kedd",
+      "ora": 1,
+      "tantargy": "Fizika"
+    },
+    {
+      "id": 5,
+      "nap": "Kedd",
+      "ora": 2,
+      "tantargy": "Biológia"
+    },
+    {
+      "id": 6,
+      "nap": "Kedd",
+      "ora": 3,
+      "tantargy": "Angol nyelv"
+    },
+    {
+      "id": 7,
+      "nap": "Szerda",
+      "ora": 1,
+      "tantargy": "Kémia"
+    },
+    {
+      "id": 8,
+      "nap": "Szerda",
+      "ora": 2,
+      "tantargy": "Testnevelés"
+    },
+    {
+      "id": 9,
+      "nap": "Csütörtök",
+      "ora": 1,
+      "tantargy": "Informatika"
+    },
+    {
+      "id": 11,
+      "nap": "Péntek",
+      "ora": 1,
+      "tantargy": "Rajz"
+    },
+    {
+      "id": 12,
+      "nap": "Péntek",
+      "ora": 2,
+      "tantargy": "Osztályfőnöki"
+    }
+  ]
+}
